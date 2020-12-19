@@ -1,0 +1,325 @@
+[PREINITIALIZATION][CLIENT][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Ivy_
+NickT
+Peregrinus11
+realTIMematrix
+AdaraChristine
+otakup0pe
+Jonathan McManus
+IDroid
+Robijnvogel
+DreamThorn
+Pongo Sapiens
+quaternary
+Genryu
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: techguns\recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: lostcities\mobcontroll.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 1ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: techguns\recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: lostcities\mobcontroll.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[1000:crafttweaker]: techguns\recipes.zs}
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@27/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@23/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] Add Recipe for1xitem.techguns.itemshared@23/NO_FLUID to ChemLab
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: lostcities\mobcontroll.zs}
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:zombie to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:blaze to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:cave_spider to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:creeper to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:elder_guardian to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:enderman to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:endermite to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:evocation_illager to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:ghast to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:husk to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:magma_cube to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:silverfish to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:skeleton to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:skeleton_horse to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:slime to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:spider to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:stray to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:vex to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:witch to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:wither_skeleton to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:zombie_horse to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:zombie_pigman to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding minecraft:zombie_villager to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding techguns:zombiesoldier to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding techguns:zombiefarmer to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding techguns:zombieminer to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding techguns:zombiepoliceman to stage.banned
+[INITIALIZATION][CLIENT][INFO] Adding techguns:skeletonsoldier to stage.banned
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 318ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Removing all crafting recipes
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 特战刀 with name ct_shaped-1594317513
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 撬棍 with name ct_shaped-35165767
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 磨粉机 with name ct_shaped1708363648
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 冻结史莱姆靴子 with name ct_shaped-2073016643
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 冻结史莱姆护腿 with name ct_shaped34095550
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 冻结史莱姆胸甲 with name ct_shaped1337660624
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 冻结史莱姆头盔 with name ct_shaped540429070
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 羊毛靴子 with name ct_shaped1090944617
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 羊毛裤子 with name ct_shaped1945340495
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 羊毛夹克 with name ct_shaped441767994
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 羊毛兜帽 with name ct_shaped1851436585
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 水罐 with name ct_shaped173641335
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 温度计 with name ct_shaped1361256873
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 冷却旋管 with name ct_shaped-1713784178
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 加热旋管 with name ct_shaped85585542
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铜线 with name ct_shaped-716075339
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 线圈 with name ct_shaped336714469
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 电机 with name ct_shaped1489085234
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 化学实验设备 with name ct_shaped-2046807584
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金属冲压机 with name ct_shaped1556964983
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 高炉 with name ct_shaped964786624
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 吗啡 with name ct_shaped1562579899
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 创可贴 with name ct_shaped-463755351
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 创可贴 with name ct_shaped1001900720
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 绷带 with name ct_shaped1622217885
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 熔炉 with name ct_shaped1881261878
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 工作台 with name ct_shaped1602646701
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 不死图腾 with name ct_shaped144290320
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金胡萝卜 with name ct_shaped-494060417
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 空地图 with name ct_shaped1925229013
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 书与笔 with name ct_shaped1453968264
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 书与笔 with name ct_shaped-692215585
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 闪烁的西瓜 with name ct_shaped-1792353468
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 炼药锅 with name ct_shaped2103303909
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 酿造台 with name ct_shaped724840664
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 岩浆膏 with name ct_shaped1890848909
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 烈焰粉 with name ct_shaped-1693387701
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 发酵蛛眼 with name ct_shaped1827427121
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金粒 with name ct_shaped-1508856779
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 剪刀 with name ct_shaped1695496001
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 骨头 with name ct_shaped657045668
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 荧石 with name ct_shaped-2102809306
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 荧石粉 with name ct_shaped1263927831
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 指南针 with name ct_shaped1471685293
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钟 with name ct_shaped1311743236
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 粘液球 with name ct_shaped581397322
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 书 with name ct_shaped1925432156
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 纸 with name ct_shaped1006407577
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 皮革靴子 with name ct_shaped-985694934
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 皮革裤子 with name ct_shaped-245543736
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 皮革外套 with name ct_shaped-877849062
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 皮革帽子 with name ct_shaped-498362069
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金靴子 with name ct_shaped-1322024566
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金护腿 with name ct_shaped483104523
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金胸甲 with name ct_shaped-2024804058
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金头盔 with name ct_shaped1625201180
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石靴子 with name ct_shaped-1153032557
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石护腿 with name ct_shaped1114495088
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石胸甲 with name ct_shaped970697731
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石头盔 with name ct_shaped-2110877025
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁靴子 with name ct_shaped-894134837
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁护腿 with name ct_shaped-1025398158
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁胸甲 with name ct_shaped880859557
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁头盔 with name ct_shaped400573843
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 锁链靴子 with name ct_shaped441117053
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 锁链护腿 with name ct_shaped-565941157
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 锁链胸甲 with name ct_shaped419956750
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 锁链头盔 with name ct_shaped-668348515
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石锄 with name ct_shaped-703898038
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁锄 with name ct_shaped1407263108
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金锄 with name ct_shaped1671949555
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金锹 with name ct_shaped1828648864
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金镐 with name ct_shaped-1039724854
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金斧 with name ct_shaped-621598999
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金剑 with name ct_shaped-1522986488
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 碗 with name ct_shaped-1321004692
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石镐 with name ct_shaped-1432169245
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石斧 with name ct_shaped-1234260574
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石锹 with name ct_shaped-546644197
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石剑 with name ct_shaped1930600019
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁剑 with name ct_shaped1794787825
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 打火石 with name ct_shaped327710239
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁镐 with name ct_shaped35249459
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁斧 with name ct_shaped-1618508334
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁锹 with name ct_shaped1624284279
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 运输矿车 with name ct_shaped806976164
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for TNT矿车 with name ct_shaped-838716622
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 矿车 with name ct_shaped1038132535
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 深色橡木门 with name ct_shaped1007028474
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金合欢木门 with name ct_shaped-2080945393
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 丛林木门 with name ct_shaped728465391
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 白桦木门 with name ct_shaped-695018655
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 云杉木门 with name ct_shaped435636108
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 红石火把 with name ct_shaped669943154
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 红石 with name ct_shaped-282664712
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 红石块 with name ct_shaped-1592342491
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for TNT with name ct_shaped134988425
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 黑色旗帜 with name ct_shaped-156951627
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 红色旗帜 with name ct_shaped333804684
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 绿色旗帜 with name ct_shaped2086504109
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 棕色旗帜 with name ct_shaped-455763762
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 蓝色旗帜 with name ct_shaped1296935663
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 紫色旗帜 with name ct_shaped-1245332208
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 青色旗帜 with name ct_shaped647883823
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 淡灰色旗帜 with name ct_shaped-989909458
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 灰色旗帜 with name ct_shaped1667264557
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 粉红色旗帜 with name ct_shaped29471276
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 黄绿色旗帜 with name ct_shaped-475100984
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 黄色旗帜 with name ct_shaped-2112894265
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 淡蓝色旗帜 with name ct_shaped544279750
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 品红色旗帜 with name ct_shaped-1093513531
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 橙色旗帜 with name ct_shaped1563660484
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 白色旗帜 with name ct_shaped517645399
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 黑色床 with name ct_shaped1243637028
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 红色床 with name ct_shaped-1374662364
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 绿色床 with name ct_shaped302005540
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 棕色床 with name ct_shaped1978673444
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 蓝色床 with name ct_shaped-639625948
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 紫色床 with name ct_shaped1037041956
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 青色床 with name ct_shaped-132477402
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 淡灰色床 with name ct_shaped-811417878
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 灰色床 with name ct_shaped-1490358354
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 粉红色床 with name ct_shaped2125668466
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 黄绿色床 with name ct_shaped1446727990
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 黄色床 with name ct_shaped767787514
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 淡蓝色床 with name ct_shaped88847038
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 品红色床 with name ct_shaped-590093438
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 橙色床 with name ct_shaped-1269033914
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 白色床 with name ct_shaped545716898
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金合欢栅栏 with name ct_shaped754097915
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 深色橡木栅栏 with name ct_shaped885493453
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 丛林木栅栏 with name ct_shaped2039909694
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 白桦木栅栏 with name ct_shaped113097775
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 云杉木栅栏 with name ct_shaped-620030969
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 粘液球 with name ct_shaped-1542848508
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 粘液块 with name ct_shaped1903866833
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁砧 with name ct_shaped2088178639
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 苔石墙 with name ct_shaped-319124141
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 地狱砖栅栏 with name ct_shaped1866043899
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁栏杆 with name ct_shaped-371757122
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 橡木栅栏 with name ct_shaped303672238
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 梯子 with name ct_shaped1892680971
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 箱子 with name ct_shaped-1958610327
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 火把 with name ct_shaped1587308288
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 火把 with name ct_shaped-326317303
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 骨块 with name ct_shaped-2103053435
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 骨头 with name ct_shaped1895314264
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 红色地狱砖 with name ct_shaped-1938749224
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 紫珀台阶 with name ct_shaped893566788
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 紫珀楼梯 with name ct_shaped916910650
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 小麦 with name ct_shaped-655951989
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 干草块 with name ct_shaped698121596
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 海晶灯 with name ct_shaped-1823243563
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 深色橡木楼梯 with name ct_shaped1333957302
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金合欢木楼梯 with name ct_shaped-1696063800
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 丛林木楼梯 with name ct_shaped-63460241
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 桦木楼梯 with name ct_shaped199317444
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 云杉木楼梯 with name ct_shaped-1743605120
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 绿宝石块 with name ct_shaped-1583280029
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 绿宝石 with name ct_shaped1597749380
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 砂岩楼梯 with name ct_shaped1776976475
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 深色橡木台阶 with name ct_shaped219648577
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金合欢木台阶 with name ct_shaped1061556163
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 丛林木台阶 with name ct_shaped1903463749
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 桦木台阶 with name ct_shaped-1549595961
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 云杉木台阶 with name ct_shaped-707688375
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 橡木台阶 with name ct_shaped-820508105
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 地狱砖楼梯 with name ct_shaped830605420
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 菌丝 with name ct_shaped-621946599
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 石砖楼梯 with name ct_shaped1452972041
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 砖楼梯 with name ct_shaped-1302399557
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 西瓜 with name ct_shaped399245379
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 西瓜片 with name ct_shaped1945015652
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 苔石砖 with name ct_shaped1704081527
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 石砖 with name ct_shaped-1870548623
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 荧石 with name ct_shaped600006937
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 灵魂沙 with name ct_shaped-550063086
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 地狱岩 with name ct_shaped-34865983
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 砂土 with name ct_shaped-1389674997
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 圆石楼梯 with name ct_shaped-1351239489
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 橡木楼梯 with name ct_shaped-342578435
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 黑曜石 with name ct_shaped-1554133427
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 苔石 with name ct_shaped-989773482
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 书架 with name ct_shaped-2041906924
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for 橡木 with name ct_shapeless727090817
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 石英台阶 with name ct_shaped1189785773
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 地狱砖台阶 with name ct_shaped441222077
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 石砖台阶 with name ct_shaped-524509060
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 砖台阶 with name ct_shaped-1196615848
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 圆石台阶 with name ct_shaped193589194
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 砂岩台阶 with name ct_shaped-732166105
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 石台阶 with name ct_shaped1718408876
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 煤炭块 with name ct_shaped711231751
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 煤炭 with name ct_shaped319897650
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石 with name ct_shaped-1404249468
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 钻石块 with name ct_shaped-1533362589
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁块 with name ct_shaped-701125483
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 铁锭 with name ct_shaped-822067320
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金锭 with name ct_shaped-253718952
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金块 with name ct_shaped1814647461
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 白色羊毛 with name ct_shaped-1108544211
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 白色羊毛 with name ct_shaped643696922
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 青金石块 with name ct_shaped-36052418
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 青金石 with name ct_shaped-682954423
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 深色橡木木板 with name ct_shaped1496373405
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 金合欢木板 with name ct_shaped16184597
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 丛林木板 with name ct_shaped1706467939
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 白桦木板 with name ct_shaped906660035
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 云杉木板 with name ct_shaped106852131
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 橡木木板 with name ct_shaped-580261181
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:potion>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:rabbit_hide>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:mutton>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:rabbit>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:bone>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:reeds>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:cooked_beef>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:chicken>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:beef>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:fish:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:fish>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:porkchop>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:log>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:purpur_block>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:prismarine:2>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:prismarine>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:quartz_block:2>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:quartz_block>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:stonebrick:3>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:stonebrick>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:clay>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:dirt:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:redstone_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:brick_block>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:red_sandstone:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:red_sandstone>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:sand:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:sandstone:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:sandstone>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:sand>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:lapis_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:stone:5>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:stone:3>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:stone:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:cobblestone>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:glass_bottle>
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
