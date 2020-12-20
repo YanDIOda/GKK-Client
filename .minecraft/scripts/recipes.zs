@@ -3,6 +3,7 @@
 //#Remove
 //Don't touch me!
 //#Add
+recipes.addShaped(<flansmod:flansworkbench_item:1>, [[null, null, null],[null, <minecraft:iron_block>, null], [null, null, null]]);
 recipes.addShaped(<techguns:combatknife>, [[null, null, <techguns:itemshared:50>],[null, <techguns:itemshared:50>, null], [<techguns:itemshared:83>, null, null]]);
 recipes.addShaped(<techguns:crowbar>, [[null, null, <minecraft:iron_ingot>],[null, <minecraft:iron_ingot>, null], [<minecraft:iron_ingot>, null, null]]);
 recipes.addShaped(<techguns:simplemachine2:8>, [[<techguns:itemshared:46>, <techguns:itemshared:46>, <techguns:itemshared:46>],[<techguns:itemshared:50>, <techguns:itemshared:50>, <techguns:itemshared:50>], [<techguns:itemshared:70>, <techguns:itemshared:70>, <techguns:itemshared:70>]]);
