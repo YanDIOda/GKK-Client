@@ -153,6 +153,12 @@ dyeWhite
 woolWhite
 blockGlassWhite
 paneGlassWhite
+ingotLead
+ingotCopper
+ingotTin
+dustSulfur
+ingotSteel
+ingotIridium
 oreCopper
 oreTin
 oreLead
@@ -180,11 +186,7 @@ plateTitanium
 sheetPlastic
 dustUranium
 ingotUraniumEnriched
-ingotCopper
 ingotBronze
-ingotLead
-ingotTin
-ingotSteel
 nuggetCopper
 nuggetLead
 nuggetSteel

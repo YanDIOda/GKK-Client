@@ -86,6 +86,13 @@ iblis:player_zombie
 iblis:boulder
 iblis:throwing_knife
 iblis:crossbow_bolt
+mw:ammo256
+mw:wcam257
+mw:shellcasing258
+mw:grenade259
+mw:smokegrenade260
+mw:gasgrenade261
+mw:entityspreadable262
 techguns:genericprojectile
 techguns:genericprojectileincendiary
 techguns:rocketprojectile
@@ -153,3 +160,14 @@ flansmod:mg
 flansmod:aagun
 flansmod:debugvector
 flansmod:debugdot
+mw:bandit1
+mw:zombieblistered
+mw:zombieripper
+mw:tornzombie
+mw:necromorph
+mw:licker
+mw:zombie
+mw:hazmat_zombie
+mw:defiled zombie
+mw:deathclaw
+mw:molded
